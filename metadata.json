@@ -1,0 +1,7 @@
+{
+  "name": "PatentSpec Formatter",
+  "description": "Professional patent formatting suite that transforms academic research papers and draft manuscripts into official Patent Office specification standards (IPO, USPTO, PCT) with LaTeX export and compliance audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
